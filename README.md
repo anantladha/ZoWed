@@ -1,0 +1,2 @@
+# ZoWed
+A sample bot
